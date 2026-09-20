@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **EXTREME OWNERSHIP**
 
@@ -134,7 +134,7 @@ This is where extreme ownership comes in: _It falls on leaders to continually ke
 > **Reference**: Willink, Jocko; Babin, Leif. Extreme Ownership: How U.S. Navy SEALs Lead and Win. St. Martin's Publishing Group. Kindle Edition.
 
 ## Simple
-[_Keep focus simple._](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness/effective-purposefulness.html#keep-focus-simple)
+[_Keep focus simple._](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness/effective-purposefulness.html#keep-focus-simple)
 
 ---
 

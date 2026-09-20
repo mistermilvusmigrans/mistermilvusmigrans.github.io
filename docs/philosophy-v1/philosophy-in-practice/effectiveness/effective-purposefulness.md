@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **EFFECTIVE PURPOSEFULNESS**
 
@@ -83,10 +83,10 @@ A goal without a goal ends up purposeless, inspiring no will.
 ## Explanation
 A human is a goal-driven being; to a human, there can be no act without will, and no will without goals. Logically, the same applies to goal-seeking itself; to a human, there can be no goal without a broader goal, and no broader goal without a self-sustaining goal, i.e. an end in itself.
 
-What is an end in itself? Can there be more than one? These are deep questions that deserve deep, i.e. philosophical reasoning. Drawing from my reasoning in [_The Standard of Value_ from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html) (not my original idea, but one I have reasoned first-hand), the only end in itself is life; to a human, this means life lived as a human, i.e. one driven not just by self-sustaining action but by self-sustaining volition. Hence, to revise my earlier point, there can be no goal without a broader goal, and no broader goal without life lived as a volitional being.
+What is an end in itself? Can there be more than one? These are deep questions that deserve deep, i.e. philosophical reasoning. Drawing from my reasoning in [_The Standard of Value_ from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html) (not my original idea, but one I have reasoned first-hand), the only end in itself is life; to a human, this means life lived as a human, i.e. one driven not just by self-sustaining action but by self-sustaining volition. Hence, to revise my earlier point, there can be no goal without a broader goal, and no broader goal without life lived as a volitional being.
 
 ## Integration is key to purposeful goals
-A purposeful goal is not merely a goal that ties to the pursuit of a value. Here, it is key to note two key points: (1) values cannot be pursued in isolation and must be pursued as an integrated whole (see: ["Integrity of Values" from _The Nature of Value_ from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html#integrity-of-values)), and (2) goals are pursuit to concretise values. Now, logically, if values cannot be pursued isolation, and if a goal is the pursuit to concretise a value, then pursuing a goal in isolation amounts to pursuing a value in isolation. Therefore, just as values must be pursued as an integrated whole, so must goals. In particular, to pursue goals purposefully, we must not just integrate our values in abstract terms but also integrate our efforts to pursue them in concrete terms, i.e. we must understand whether and how our goals are tied to each other.
+A purposeful goal is not merely a goal that ties to the pursuit of a value. Here, it is key to note two key points: (1) values cannot be pursued in isolation and must be pursued as an integrated whole (see: ["Integrity of Values" from _The Nature of Value_ from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html#integrity-of-values)), and (2) goals are pursuit to concretise values. Now, logically, if values cannot be pursued isolation, and if a goal is the pursuit to concretise a value, then pursuing a goal in isolation amounts to pursuing a value in isolation. Therefore, just as values must be pursued as an integrated whole, so must goals. In particular, to pursue goals purposefully, we must not just integrate our values in abstract terms but also integrate our efforts to pursue them in concrete terms, i.e. we must understand whether and how our goals are tied to each other.
 
 ## Examples
 Consider: why am I writing this? If there is no goal behind it, I am acting purposelessly such action cannot be sustained for long volitionally. No, I write because I want to be clear about how a goal can be sustained volitionally, and by writing, I (1) lay out my ideas where I can see them, without them going out of focus or being forgotten, and (2) make a longer logical chain of arguments easier to build, refer back to and thus validate. Now, why do I want clarity? Sometimes, the desire to gain clarity can feel like an urge, but I see that my urge draws from my grasp of the importance of ideas in my life, and thus the importance of being clear about my ideas. Here, we can see how it ties to my life itself, the end in itself.
@@ -114,7 +114,7 @@ Reason is the fundamental value, and rationality the fundamental virtue. Why? Co
 
 ---
 
-For more on rationality in practice, check [here](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice).
+For more on rationality in practice, check [here](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice).
 
 ## Examples
 Suppose I am listening to someone, and I miss some point they made earlier, which I have no reason to think was too important right now. But I am not certain. Suppose my uncertainty made me try to remember the missed point, just to make sure I did not miss something that could important right now. What is the likely result? My rumination would result in my focus being divided as I listen to the speaker, losing more information as time goes by, adding more to the list of points I missed. Is this an effective way to listen to someone? No, for a few reasons, but at root, because it divides focus irrationally.
@@ -142,7 +142,7 @@ Concrete value sustains volition, especially for long-range goals.
 _Hence, the process itself must be valuable, not just the result._
 
 ## Explanation
-_Lifted from_ ["Integrating the value of the process with the goal" from _Integrating the Actual and the Potential_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#integrating-the-value-of-the-process-with-the-goal).
+_Lifted from_ ["Integrating the value of the process with the goal" from _Integrating the Actual and the Potential_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#integrating-the-value-of-the-process-with-the-goal).
 
 The goal's object may represent one or few values, but often does not represent all the values relevant within the overall context (overall ⇒ including the process and the result). Furthermore, the probability of success is often less than certain and can even be quite uncertain. Hence, it stands to reason that what makes a goal worth pursuing is not just the values represented by the goal's object but the integrated system of values represented by the steps within the process of the pursuit itself.
 

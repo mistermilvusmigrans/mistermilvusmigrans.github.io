@@ -1,4 +1,4 @@
-[↜ Back to **Summary**](https://mistermilvusmigrans.github.io/philosophy/summary)
+[↜ Back to **Summary**](https://mistermilvusmigrans.github.io/philosophy-v1/summary)
 
 **KEY**:
 

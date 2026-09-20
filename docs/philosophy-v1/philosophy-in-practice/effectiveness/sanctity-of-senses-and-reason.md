@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **SANCTITY OF SENSES AND REASON**
 
@@ -21,7 +21,7 @@ Direct perception (i.e. sense-perception and direct perception of mental states)
 
 ---
 
-**Key clarification**: ["The invalidity of revelation" from _Knowledge and Certainty_ from **Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/epistemology/knowledge-and-certainty.html#the-invalidity-of-revelation)
+**Key clarification**: ["The invalidity of revelation" from _Knowledge and Certainty_ from **Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/knowledge-and-certainty.html#the-invalidity-of-revelation)
 
 ---
 

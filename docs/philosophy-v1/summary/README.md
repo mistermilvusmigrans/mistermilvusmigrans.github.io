@@ -25,24 +25,24 @@ The layer of fundamentals.
 
 **Metaphysics**:
 
-- [Essentials of Metaphysics](https://mistermilvusmigrans.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+- [Essentials of Metaphysics](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics/essentials-of-metaphysics.html)
 
 **Philosophical psychology**:
 
-- [Human Consciousness and Free Will](https://mistermilvusmigrans.github.io/philosophy/human-consciousness-and-free-will.html)
+- [Human Consciousness and Free Will](https://mistermilvusmigrans.github.io/philosophy-v1/human-consciousness-and-free-will.html)
 
 **Epistemology**:
 
-- [Direct Experience](https://mistermilvusmigrans.github.io/philosophy/epistemology/3-direct-experience.html)
-- [Integration of Perception](https://mistermilvusmigrans.github.io/philosophy/epistemology/4-integration-of-perception.html)
-- [Knowledge and Certainty](https://mistermilvusmigrans.github.io/philosophy/epistemology/knowledge-and-certainty.html)
+- [Direct Experience](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/3-direct-experience.html)
+- [Integration of Perception](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/4-integration-of-perception.html)
+- [Knowledge and Certainty](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/knowledge-and-certainty.html)
 
 **Ethics**:
 
-- [The Standard of Value](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html)
-- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
-- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html)
-- [The Nature of Morality](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-morality.html)
+- [The Standard of Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html)
+- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-life.html)
+- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html)
+- [The Nature of Morality](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-morality.html)
 
 ## Stem and branches
 The layer connecting theory to practice.
@@ -69,7 +69,7 @@ The layer connecting theory to practice.
               LE
 ```
 
-[Key >>](https://mistermilvusmigrans.github.io/philosophy/summary/key.html) :: [Justification >>](https://mistermilvusmigrans.github.io/philosophy/summary/justification.html)
+[Key >>](https://mistermilvusmigrans.github.io/philosophy-v1/summary/key.html) :: [Justification >>](https://mistermilvusmigrans.github.io/philosophy-v1/summary/justification.html)
 
 ## Specific branches
 Key specifics from the last section.
@@ -81,7 +81,7 @@ Key specifics from the last section.
 - Wholeheartedly accept the past and the potential
 - Accept your causal efficacy and/or inefficacy
 
-[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/1-laying-foundations.html#the-acceptance-of-reality)
+[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/1-laying-foundations.html#the-acceptance-of-reality)
 
 **Dealing with emotions**:
 
@@ -93,7 +93,7 @@ Key specifics from the last section.
 - Emotion is not subjectable to willpower
 - Premises are subjectable to focus and change
 
-[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/7-emotions.html)
+[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/7-emotions.html)
 
 **Essentialising focus**:
 
@@ -102,7 +102,7 @@ Key specifics from the last section.
 - Principle of unaccountability
 - Principle of purposefulness
 
-[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-essentialisation)
+[Elaboration >>](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-essentialisation)
 
 # Key points to remember
 - Objectivity is the root of virtue
@@ -112,7 +112,7 @@ Key specifics from the last section.
 - Life is the source of value and purpose
 - Life is the only end in itself
 - By its nature, life is ongoing and continuous
-- Value-seeking is continuous (see: [1](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-value-seeking))
+- Value-seeking is continuous (see: [1](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-value-seeking))
 - Pursuit of happiness: the sole moral obligation
 - Serenity is the basis of happiness
 

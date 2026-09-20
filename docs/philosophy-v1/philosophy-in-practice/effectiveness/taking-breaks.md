@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **TAKING BREAKS**
 
@@ -16,7 +16,7 @@
 # Introduction
 "Taking a break" from a pursuit means disengaging from it temporarily, i.e. refraining from applying your focus to this pursuit for a period of time. This may mean either a form of rest or a change in your focus to some restorative (i.e. relaxing or rejuvenating) pursuit. Some examples are: giving a pause to your work, taking a walk, studying or working on something else that may be more interesting, shifting your focus to leisure, etc.
 
-An essential characteristic of taking a break is its restorativeness, i.e. its capacity to stem the drain of energy and motivation and replenish at least some energy or motivation. Thus, it has two key purposes: (1) preventing and correcting for cognitive and/or motivational overload (for more on overload, see: ["Overload" from _Sources of Inefficacy_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/3-sources-of-inefficacy.html)), and (2) providing you more energy and patience to engage in fresh attempts or new directions.
+An essential characteristic of taking a break is its restorativeness, i.e. its capacity to stem the drain of energy and motivation and replenish at least some energy or motivation. Thus, it has two key purposes: (1) preventing and correcting for cognitive and/or motivational overload (for more on overload, see: ["Overload" from _Sources of Inefficacy_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/3-sources-of-inefficacy.html)), and (2) providing you more energy and patience to engage in fresh attempts or new directions.
 
 # Overcoming overload through taking breaks
 ## Defining cognitive and motivational overload
@@ -43,7 +43,7 @@ Now, note that facing motivational overload is not necessarily a sign that a pur
 
 ---
 
-For more on identifying cognitive and motivational overload, see: ["Overload" from _Sources of Inefficacy_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/3-sources-of-inefficacy.html).
+For more on identifying cognitive and motivational overload, see: ["Overload" from _Sources of Inefficacy_ from **Philosophy in Practice** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/3-sources-of-inefficacy.html).
 
 ## Taking breaks to overcome overload
 We can now come to the topic at hand, namely taking breaks. Taking a break is a key method in overcoming cognitive overload, since it lets you clear your mind, give yourself some rest to recover from the strain and replenish your energy before re-organising your thoughts and trying again. Likewise, taking a break is a key method in overcoming motivational overload, since it stops you from draining yourself further and lets you rest and recover your strength before either trying again or re-evaluating your priorities and approach. Here, note how cognitive and motivational overload are linked; motivational overload can drain you of the energy to think clearly, and cognitive overload can deprive you of the focus needed to re-evaluate and reprioritse. Hence, taking breaks when overloaded is key to improving your efficacy, which means the efficacy of both you mind and your spirit (i.e. the value-oriented part of your being).

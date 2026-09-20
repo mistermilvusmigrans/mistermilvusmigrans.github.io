@@ -1,4 +1,4 @@
-[↜ Back to **Philosophy**](https://mistermilvusmigrans.github.io/philosophy)
+[↜ Back to **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1)
 
 **HUMAN CONSCIOUSNESS AND FREE WILL**
 
@@ -85,7 +85,7 @@ Since the fundamental feature of X in a given context is the fundamental factor 
 _Back to the discussion_...
 
 # Metaphysical context
-_The metaphysical context draws from_ [**Metaphysics**](https://mistermilvusmigrans.github.io/philosophy/metaphysics).
+_The metaphysical context draws from_ [**Metaphysics**](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics).
 
 Existence exists, and we are conscious of it. Furthermore, everything that exists is something in particular, i.e. something that has a particular identity — this also applies to our consciousness, i.e. our consciousness also has a particular identity. In other words, we are conscious of something through a particular form of awareness. Furthermore, as discussed in metaphysics, existence exists independently of consciousness because consciousness is the faculty of awareness, i.e. the faculty of perceiving that which exists. 
 
@@ -191,7 +191,7 @@ Focus is a self-imposed selectivity in the direction and scope of one's awarenes
 ---
 
 ## Free will is an extension of causality
-In ["The law of causality" from _Metaphysics_](https://mistermilvusmigrans.github.io/philosophy/metaphysics/#the-law-of-causality), the law of causality is given as follows:
+In ["The law of causality" from _Metaphysics_](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics/#the-law-of-causality), the law of causality is given as follows:
 
 _Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). An entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. By extension, a subset of existence can only change according to the identities of the entities acting and interacting within it._
 

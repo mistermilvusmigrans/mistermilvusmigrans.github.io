@@ -1,4 +1,4 @@
-[↜ Back to **Metaphysics**](https://mistermilvusmigrans.github.io/philosophy/metaphysics)
+[↜ Back to **Metaphysics**](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics)
 
 **METAPHYSICS**
 

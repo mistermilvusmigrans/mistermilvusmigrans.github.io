@@ -1,4 +1,4 @@
-[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice)
+[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice)
 
 **RATIONAL EXPECTATION**
 

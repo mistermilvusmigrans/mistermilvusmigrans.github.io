@@ -1,4 +1,4 @@
-[↜ Back to **Philosophy**](https://mistermilvusmigrans.github.io/philosophy)
+[↜ Back to **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1)
 
 # Ethics
 ## Introduction
@@ -12,22 +12,22 @@ Ethics is the study of the code of values and principles by which we guide our l
 
 _Link between epistemology and ethics_...
 
-Epistemology gives us the means to seek knowledge. Ethics gives us the means to guide our actions on the basis of knowledge. The link between these sciences is the knowledge of the nature of human (i.e. volitional) consciousness (discussed here: [_Human Consciousness and Free Will_ from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/human-consciousness-and-free-will.html)), enabling us to learn the kinds of actions that are right and most effective with respect to our fundamental nature.
+Epistemology gives us the means to seek knowledge. Ethics gives us the means to guide our actions on the basis of knowledge. The link between these sciences is the knowledge of the nature of human (i.e. volitional) consciousness (discussed here: [_Human Consciousness and Free Will_ from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/human-consciousness-and-free-will.html)), enabling us to learn the kinds of actions that are right and most effective with respect to our fundamental nature.
 
 ## Explore
 _Fundamentals_...
-1. [The Standard of Value](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html)
-2. [Values and Virtues](https://mistermilvusmigrans.github.io/philosophy/ethics/2-values-and-virtues.html)
-3. [Moral Principles](https://mistermilvusmigrans.github.io/philosophy/ethics/3-moral-principles.html)
+1. [The Standard of Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html)
+2. [Values and Virtues](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/2-values-and-virtues.html)
+3. [Moral Principles](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/3-moral-principles.html)
 
 _Expansion_...
 
-- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
-- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html)
-- [The Nature of Anti-Value](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-anti-value.html)
-- [The Nature of Morality](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-morality.html)
-- [Morality in a Social Context](https://mistermilvusmigrans.github.io/philosophy/ethics/morality-in-social-context.html) <br> _This forms the basis for politics, so it is the main link between ethics and politics_
+- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-life.html)
+- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html)
+- [The Nature of Anti-Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-anti-value.html)
+- [The Nature of Morality](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-morality.html)
+- [Morality in a Social Context](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/morality-in-social-context.html) <br> _This forms the basis for politics, so it is the main link between ethics and politics_
 
 ---
 
-- [Closing Remarks on Ethics](https://mistermilvusmigrans.github.io/philosophy/ethics/closing-remarks-on-ethics.html)
+- [Closing Remarks on Ethics](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/closing-remarks-on-ethics.html)

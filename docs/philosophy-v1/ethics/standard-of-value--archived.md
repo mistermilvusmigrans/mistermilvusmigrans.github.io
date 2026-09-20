@@ -1,4 +1,4 @@
-[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics)
+[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics)
 
 **THE STANDARD OF VALUE**
 
@@ -169,7 +169,7 @@ A living being is the only kind of entity that can hold a goal that is an end in
 ---
 
 ## Epistemological mistakes to avoid
-This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://mistermilvusmigrans.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
+This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
 
 # The value for life as an expression of reality's absolutes
 Metaphysically, reality is the absolute. Epistemologically, reason is the absolute. With reality and reason as our context, we observe that the question of how to act only comes up if we can act and have a reason to act, i.e. if we can have and pursue values. A value is the basis of self-generated cause as opposed to causal coincidence. As we have seen, the objective source of value is life, which is — by its nature — the ultimate value, and thus, the standard of value.
@@ -237,5 +237,5 @@ A volitional consciousness is a self-initiated, self-sustaining and self-advanci
 
 ## Deep dives into the nature of life and value
 
-- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
-- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html)
+- [The Nature of Life](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-life.html)
+- [The Nature of Value](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html)

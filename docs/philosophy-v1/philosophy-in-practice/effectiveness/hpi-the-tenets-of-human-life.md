@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **HEALTH, POWER, INTEGRITY: THE TENETS OF HUMAN LIFE**
 
@@ -15,7 +15,7 @@
 ---
 
 # Human life
-As explained in [*The Standard of Value* from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html), human life is a life wherein one is (1) both alive and desirous of life, and (2) aware and desirous of awareness. This means human life is not about range-of-the-moment existence, and realistically, it cannot be about only long-term goals. Rather, the essence of human life is the pursuit of potential (i.e. considerations with respect to life lived long-range) integrated to the actual (i.e. considerations with respect to life lived concretely, in the moment). This understanding is vital in understanding why health, power and integrity are tenets of human life.
+As explained in [*The Standard of Value* from **Ethics** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html), human life is a life wherein one is (1) both alive and desirous of life, and (2) aware and desirous of awareness. This means human life is not about range-of-the-moment existence, and realistically, it cannot be about only long-term goals. Rather, the essence of human life is the pursuit of potential (i.e. considerations with respect to life lived long-range) integrated to the actual (i.e. considerations with respect to life lived concretely, in the moment). This understanding is vital in understanding why health, power and integrity are tenets of human life.
 
 # Health
 The state of a living entity that allows and facilitates the sustenance of its life. For a human being, since the potential must be integrated with the actual, health also means a state that supports and promotes the advancement of one's ability to live. Evidently, life is the standard of value, and health is its concrete (i.e. actual/real-time) support. Hence, health is fundamental to a living being's long-range survival. For a human being, since the potential must be integrated with the actual, health is not a range-of-the-moment concern detached from long-range consequences, since this would contradict the pursuit of potential. Realistically, health also cannot be purely long-range, since it is a concrete support for life that has no value purely as an end goal. Hence, health must be pursued with respect to life lived long-range, while trying to ensure it is realised to its fullest extent as quickly as possible and maintained to a sufficient extent as far as possible.

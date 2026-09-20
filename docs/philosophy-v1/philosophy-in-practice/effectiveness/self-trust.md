@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **SELF-TRUST**
 
@@ -58,7 +58,7 @@ To stay in focus is the first and most fundamental act of volition, and thus, it
 
 ---
 
-**NOTE 1**: Objectivity beyond this, however, can be more complex to achieve, since correspondence between reality and one' mental contents is by no means automatic. Moreover, since reality is complex and holds many unknowns, and since experience clearly shows the potential for errors and incomprehension, objectivity at higher levels is certainly not always self-evident. Here, objectivity requires logic, valid epistemology and science, but these are beyond the scope of this discussion (the essentials are discussed in [**Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/epistemology)).
+**NOTE 1**: Objectivity beyond this, however, can be more complex to achieve, since correspondence between reality and one' mental contents is by no means automatic. Moreover, since reality is complex and holds many unknowns, and since experience clearly shows the potential for errors and incomprehension, objectivity at higher levels is certainly not always self-evident. Here, objectivity requires logic, valid epistemology and science, but these are beyond the scope of this discussion (the essentials are discussed in [**Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology)).
 
 **NOTE 2**: Honesty to others is generally preferable (though, rationally, it not an absolute necessity). However, it is especially important if it helps maintain an objective record of your own self-image, without harming any more fundamental values. In the long run, is more practical to maintain an objective record of your self-image and improve your virtues, rather than falsify your self-image; unless there is a very clear, objective threat to one's fundamental values (i.e. one's life, wellbeing, livelihood, etc.) that can only be avoided by lying to others, it pays to be honest about oneself. That being said, self-honesty is absolutely non-negotiable, morally and practically.
 

@@ -1,4 +1,4 @@
-[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy/epistemology)
+[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology)
 
 **UNIT PERCEPTION**
 

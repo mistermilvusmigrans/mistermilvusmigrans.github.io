@@ -1,4 +1,4 @@
-[↜ Back to **Metaphysics**](https://mistermilvusmigrans.github.io/philosophy/metaphysics)
+[↜ Back to **Metaphysics**](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics)
 
 **KEY METAPHYSICAL IMPLICATIONS**
 
@@ -15,7 +15,7 @@
 
 ---
 
-**Necessary context**: [_Essentials of Metaphysics_](https://mistermilvusmigrans.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+**Necessary context**: [_Essentials of Metaphysics_](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics/essentials-of-metaphysics.html)
 
 # Creation from nothingness
 **LEXICAL NOTES**:

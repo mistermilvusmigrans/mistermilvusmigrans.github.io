@@ -1,4 +1,4 @@
-[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness)
+[↜ Back to **Effectiveness**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness)
 
 **ESSENTIALISE, SIMPLIFY, ORGANISE**
 
@@ -31,7 +31,7 @@ Note that to claim that something can potentially affect your pursuit, there mus
 
 ---
 
-_For more on evidence, arbitrary claims and irrelevant considerations, see_: ["Identifying evidence" from _Knowledge and Certainty_ from **Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy/epistemology/knowledge-and-certainty.html).
+_For more on evidence, arbitrary claims and irrelevant considerations, see_: ["Identifying evidence" from _Knowledge and Certainty_ from **Epistemology** from **Philosophy**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/knowledge-and-certainty.html).
 
 ## Simplification
 Simplification is the process of omitting irrelevant or less relevant details so as to sharpen the focus on what is most relevant within a purposeful context. The need for simplification arises from the finite capacity of consciousness. To elaborate, in order to consider something as per the context, you must be able to hold this context in focus. However, to do so, you must be able to sufficiently condense this context to let it fit into your focus while also letting you take in other considerations.
@@ -71,4 +71,4 @@ The principles of ESO lay out the essential steps in effective action. However, 
 
 Now, method refers to the organisation of tasks and/or sub-goals to achieve a goal. Since any real goal has a real standard for success, i.e. a set of real-world requirements that must be met through tasks and sub-goals, so does the goal of applying ESO in practice, not just to one specific situations but to any situation one may face. In other words, any goal has a method to achieve it, no matter how broad or narrow the goal is. Now, to tie this to the title of this text: the method of essentialising, simplifying and organising (ESO) the elements and aspects of a problem in order to realise a solution is _planning_.
 
-**Read further**: [Planning](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/effectiveness/planning.html)
+**Read further**: [Planning](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/effectiveness/planning.html)

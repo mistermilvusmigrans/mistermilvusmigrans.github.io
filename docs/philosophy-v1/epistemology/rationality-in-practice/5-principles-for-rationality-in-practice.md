@@ -1,4 +1,4 @@
-[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice)
+[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice)
 
 **PRINCIPLES FOR RATIONALITY IN PRACTICE**
 
@@ -31,7 +31,7 @@ So far, we have looked at the key requirements of rationality as well as the bro
 # Principle of contextual non-contradiction
 **_Non-contradiction in contexts_**
 
-_This reinforces the idea in_ ["Hierarchical and contextual organisation of values" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#hierarchical-and-contextual-organisation-of-values).
+_This reinforces the idea in_ ["Hierarchical and contextual organisation of values" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#hierarchical-and-contextual-organisation-of-values).
 
 Essentials in a narrower context cannot contradict those in a broader context that subsumes it. A broader context — being more abstracted and integrated — would involve fewer but more wide-ranging essentials. Hence, this principle of non-contradiction means we can keep in mind the essentials of a broader context by reference to which we can identify and/or eliminate many potential essentials in a narrower context.
 
@@ -62,7 +62,7 @@ By causality, what has happened is not open to change. Understanding this is key
 # Principle of value-seeking
 **_A principle that supports the validity of the others_**
 
-_This section is lifted from_ ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous).
+_This section is lifted from_ ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html#values-seeking-is-continuous).
 
 The basic idea here is: the achievement of values is conditional, time-bound and a constant need in some form, i.e. there is no state of life and no point in life that does not require the pursuit and achievement of values in some form. For a volitional being in particular, the values to be pursued and achieved when conscious necessarily extend to values that sustain one's self-motivated existence, which means conscious life-affirmation involves not only the automatic pursuit of values (e.g. breathing, digesting, etc.) but also the volitional pursuit of values, not only in the moment but also toward a future potential. Why? Because a volitional existence can only be sustained by integrating one's present with some potential and by valuing consciousness to the fullest (which is not contradicted by actual unconsciousness, since sustaining the capacity of one's consciousness to the fullest also requires rest, sleep and perhaps other acute needs, such as surgery, that may involve actual unconsciousness). In other words, to sustain our existence as volitional beings, we need to recognise and strive for some valuable potential (which could be as direct as enjoying the moment).
 
@@ -200,7 +200,7 @@ Given these conclusions, I reiterate that we must shift contexts based on our cu
 **NOTE**: _I distinguish between purposeful and cognitive context for emphasis only; both kinds are ultimately the same, since a purposeful context relies on facts and reason while a cognitive context relies on purpose and values._
 
 ## Essential further reading
-While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value and the ultimate purpose, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
+While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value and the ultimate purpose, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
 
 # Additional points of principle
 ## Dismissing arbitrary doubts and arbitrary hypotheticals

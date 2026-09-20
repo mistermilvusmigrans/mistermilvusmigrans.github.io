@@ -1,4 +1,4 @@
-[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy/epistemology)
+[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology)
 
 **REASON**
 
@@ -57,7 +57,7 @@ Hence, while it can be used to facilitate reason, it cannot replace it, because 
 
 Hence, it is not irrational to follow your instinct and intuition provided (1) you cannot or need not deliberate (see the note below), and (2) you validate the instinct and intuition with reason when you can. Instinct and intuition are vital mechanisms as they tap the power of the subconscious mind, thus vastly increasing your ability to process data and act in reality. Thus, using your instinct and intuition wisely is rational.
 
-**NOTE**: _You need not deliberate if you have objective certainty within the given context; how certainty can be achieved is a separate topic discussed in_ ["Certainty" from _Knowledge and Certainty_](https://mistermilvusmigrans.github.io/philosophy/epistemology/knowledge-and-certainty.html#certainty).
+**NOTE**: _You need not deliberate if you have objective certainty within the given context; how certainty can be achieved is a separate topic discussed in_ ["Certainty" from _Knowledge and Certainty_](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/knowledge-and-certainty.html#certainty).
 
 ## Emotion
 Emotion, from what I understand, is an immediate end result of a subconscious evaluation of a situation, wherein the evaluation is based on internalised values. Hence, emotions may lead to knowledge as observable end results, but they cannot form knowledge. Note that while emotions are not means of cognition, I am not saying they are not valuable to us. On the contrary, they have immense, indispensable value as (1) the feedback we receive, either reinforcing and enabling the pursuit of our values, or indicating an issue in said values, and (2) the reward and affirmation for life itself, wherein we experience life as an end in itself through emotions, both positive and negative (each with its own uses).

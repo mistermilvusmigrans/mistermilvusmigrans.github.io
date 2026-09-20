@@ -1,4 +1,4 @@
-[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy/epistemology)
+[↜ Back to **Epistemology**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology)
 
 # Rationality in Practice
 
@@ -8,8 +8,8 @@ By the nature of cognition beyond the perceptual level, the exercise of reason i
 Here, we see a false and — in my view — dangerous dichotomy: consistent rationality that is a constant struggle vs. inconsistent rationality that leaves room for relaxation and the enjoyment of life. In the coming sections, I shall show the following: (1) Consistent rationality is essentially a consistent value for one's own life in every sense, from the enjoyment of the moment to long-range success. (2) Consistent rationality is not and should not be a constant struggle; indeed, I want to show that a constant struggle in the pursuit of reason is precisely what is irrational. (3) The aforementioned dichotomy is harmful to one's life and one's pursuit of happiness. I shall also present my understanding of how to practise rationality in various contexts, from the everyday to the long-range.
 
 ## Explore
-1. [Consistency and Rationality](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/1-consistency-and-rationality.html)
-2. [Efficiency and Rationality](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/2-efficiency-and-rationality.html)
-3. [Rational Expectation](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/3-rational-expectation.html)
-4. [Rational Application of Volition](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/4-rational-application-of-volition.html)
-5. [Principles of Rationality in Practice](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html)
+1. [Consistency and Rationality](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/1-consistency-and-rationality.html)
+2. [Efficiency and Rationality](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/2-efficiency-and-rationality.html)
+3. [Rational Expectation](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/3-rational-expectation.html)
+4. [Rational Application of Volition](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/4-rational-application-of-volition.html)
+5. [Principles of Rationality in Practice](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html)

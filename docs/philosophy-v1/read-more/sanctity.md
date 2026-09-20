@@ -1,4 +1,4 @@
-[↜ Back to **Read More**](https://mistermilvusmigrans.github.io/philosophy/read-more)
+[↜ Back to **Read More**](https://mistermilvusmigrans.github.io/philosophy-v1/read-more)
 
 **SANCTITY**
 
@@ -59,7 +59,7 @@ Sanctity refers to the quality of being ultimate and inviolable in value. "Sacre
 An objective morality as such is absolute, although, like any system of ideas, it must be applied contextually. Hence, it is not useful to use the concept of sanctity to refer to moral absolutism as such, because morality, properly understood, is absolute. However, as in any system of ideas, there is a hierarchy of contexts, at the top of which is the broadest context whose truths condition the truths in every other context, because by logic, facts in a narrower context are conditioned by facts in a broader context that subsumes it. In other words, there are ideas that tie everything else together, and are thus valid and relevant in every context. It is thus useful to identify such ideas and their corollaries, which is what the concept of sanctity is useful for.
 
 # What is sacred?
-Evidently, something sacred is that which is the core of morality or a logical extension of this core. Thus, the source of sanctity, objectively, is the standard of value, i.e. one's own life as a volitional being (see: [_The Standard of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html)) and all that it implies. Concretely, this translates to the affirmation of life in the moment, which, for a volitional being, needs an orientation not just toward survival  in the moment but toward one's potential for life long-range. Poetically, the following may be said:
+Evidently, something sacred is that which is the core of morality or a logical extension of this core. Thus, the source of sanctity, objectively, is the standard of value, i.e. one's own life as a volitional being (see: [_The Standard of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html)) and all that it implies. Concretely, this translates to the affirmation of life in the moment, which, for a volitional being, needs an orientation not just toward survival  in the moment but toward one's potential for life long-range. Poetically, the following may be said:
 
 _Most treasured is the next breath,_ <br>
 _Null without the breath of now._ <br>
@@ -72,5 +72,5 @@ In other words, life is sacred not in the sense that death must be feared above 
 
 Related writings:
 
-- [_The Standard of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics/1-standard-of-value.html)
-- [_The Nature of Life_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-life.html)
+- [_The Standard of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/1-standard-of-value.html)
+- [_The Nature of Life_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-life.html)

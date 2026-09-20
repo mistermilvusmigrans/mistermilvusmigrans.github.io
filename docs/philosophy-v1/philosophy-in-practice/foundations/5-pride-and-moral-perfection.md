@@ -1,4 +1,4 @@
-[↜ Back to **Foundations**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations)
+[↜ Back to **Foundations**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations)
 
 **PRIDE AND MORAL PERFECTION**
 

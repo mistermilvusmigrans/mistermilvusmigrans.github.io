@@ -1,4 +1,4 @@
-[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy/epistemology/rationality-in-practice)
+[↜ Back to **Rationality in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/rationality-in-practice)
 
 **RATIONAL APPLICATION OF VOLITION**
 
@@ -36,7 +36,7 @@ _Unit reduction expands the scope of one's consciousness._
 
 **NOTE**: _Unit-reduction does not preclude the consideration of concretes (of course, since concretes are the basis of knowledge). On the contrary, concretes are most efficaciously handled when using unit-reduction. Where more concrete consideration is needed, such must be done, and where broader abstractions are more relevant, such must be done, but it is unit-reduction that gives you the capacity to understand what approach is relevant in the given context._
 
-Now, let us ask: why is it necessary to think in essentials? Focus and effort are precious and finite resources (though renewable): every bit of focus and effort in thought and action must be applied based only on what you know to be rational and purposeful in your context (exploration of unknowns can and must be rational and purposeful too; even curiosity-based or relatively random exploration can and must have rational grounds. See: [_Exploration in Truth-seeking_](https://mistermilvusmigrans.github.io/philosophy/epistemology/exploration-in-truth-seeking.html)). It is constructive to note that here, unit-reduction by forming broad abstractions is vital in achieving intellectual, moral and practical efficacy. To effectively deal with particulars, it is necessary to (1) identify particular instances of abstract values, (2) judge them based on the abstractions and (3) not delve deeper into the particulars themselves without reason or purpose relevant to the context. The most effective method of unit-reduction is thinking in essentials. Note that what constitutes the essentials depends on the context, i.e. we must find what constitutes the primary or fundamental elements in the given context. Thinking in essentials is the indispensable method of defining and retaining a whole context. Hence, we get...
+Now, let us ask: why is it necessary to think in essentials? Focus and effort are precious and finite resources (though renewable): every bit of focus and effort in thought and action must be applied based only on what you know to be rational and purposeful in your context (exploration of unknowns can and must be rational and purposeful too; even curiosity-based or relatively random exploration can and must have rational grounds. See: [_Exploration in Truth-seeking_](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/exploration-in-truth-seeking.html)). It is constructive to note that here, unit-reduction by forming broad abstractions is vital in achieving intellectual, moral and practical efficacy. To effectively deal with particulars, it is necessary to (1) identify particular instances of abstract values, (2) judge them based on the abstractions and (3) not delve deeper into the particulars themselves without reason or purpose relevant to the context. The most effective method of unit-reduction is thinking in essentials. Note that what constitutes the essentials depends on the context, i.e. we must find what constitutes the primary or fundamental elements in the given context. Thinking in essentials is the indispensable method of defining and retaining a whole context. Hence, we get...
 
 **KEY POINT 3**:
 
@@ -50,23 +50,23 @@ Firstly, only by abstracting (i.e. selectively focusing on and isolating certain
 
 **NOTE: Validity of abstractions and essentials**:
 
-_To see why abstraction in general and essentials in particular are objective and effective, check_ [_Integration of Perception_](https://mistermilvusmigrans.github.io/philosophy/epistemology/4-integration-of-perception.html#).
+_To see why abstraction in general and essentials in particular are objective and effective, check_ [_Integration of Perception_](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/4-integration-of-perception.html#).
 
 Since volition is essentially the ability to focus selectively, the rational use of volition requires the rational use of focus, which requires thinking in essentials. In other words, the focus of our minds must be on that which is essential in the given context. We expand into particulars as indicated by the context, progressively expanding the scope of our focus, but always with the method of thinking in essentials. The question now is: how to recognise and focus on essentials in a given context?
 
 **NOTE**: _The exact principles for essentialising focus shall be discussed later._
 
 ## Shaping motivations
-_This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#further-points-on-motivation).
+_This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#further-points-on-motivation).
 
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
 
-_Motivation and willpower are explored in-depth in_ [_Integrating the actual and the potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html).
+_Motivation and willpower are explored in-depth in_ [_Integrating the actual and the potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html).
 
 # Rational application of effort
 **_An extension of the above discussions_**
 
-Three vital facts about any living being is that (1) the time and energy available to it is finite, (2) values are time-bound and conditional (i.e. not guaranteed) and (3) values (i.e. things worth pursuing and/or necessary to pursue) are ever-present and continuous (see: ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics/nature-of-value.html#value-seeking-is-continuous)). Furthermore, the broader and long-range values of a volitional being are not automatic and not always obvious, i.e. they require the use of reason and rational effort to be discovered and pursued effectively. These facts imply that if one aims to live as a volitional being, then one must apply one's effort judiciously. We shall now explore what this means in practice.
+Three vital facts about any living being is that (1) the time and energy available to it is finite, (2) values are time-bound and conditional (i.e. not guaranteed) and (3) values (i.e. things worth pursuing and/or necessary to pursue) are ever-present and continuous (see: ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/nature-of-value.html#value-seeking-is-continuous)). Furthermore, the broader and long-range values of a volitional being are not automatic and not always obvious, i.e. they require the use of reason and rational effort to be discovered and pursued effectively. These facts imply that if one aims to live as a volitional being, then one must apply one's effort judiciously. We shall now explore what this means in practice.
 
 ## Rejection of arbitrary effort
  **LEXICAL NOTE**:

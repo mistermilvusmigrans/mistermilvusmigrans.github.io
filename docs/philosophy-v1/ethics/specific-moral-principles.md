@@ -1,4 +1,4 @@
-[↜ Back to _Moral Principles_](https://mistermilvusmigrans.github.io/philosophy/ethics/3-moral-principles.html)
+[↜ Back to _Moral Principles_](https://mistermilvusmigrans.github.io/philosophy-v1/ethics/3-moral-principles.html)
 
 **SPECIFIC MORAL PRINCIPLES**
 
@@ -126,7 +126,7 @@ Being perfectly moral is your only path to your values—including life—and yo
 
 **NOTE**: _This principle takes the previous one to its logical conclusion_.
 
-_Most of the following is lifted from_ ["Moral perfection" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#moral-perfection).
+_Most of the following is lifted from_ ["Moral perfection" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#moral-perfection).
 
 ---
 
@@ -228,7 +228,7 @@ This note is a reiteration of previous points. Your values are an integrated sys
 When you have to choose between potential values, use your hierarchy of values in a sufficiently large, i.e. inclusive context.
 
 ### 0.3.4. Motivation and willpower
-_Drawing from_ ["The basis of motivation and willpower" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#the-basis-of-motivation-and-willpower).
+_Drawing from_ ["The basis of motivation and willpower" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/2-integrating-actual-and-potential.html#the-basis-of-motivation-and-willpower).
 
 #### 0.3.4.1. Basic nature of motivation & willpower
 Motivation and willpower are not unlimited, and they are not guided primarily by your whims and wishes; they are resources that can deplete, must be maintained (or renewed), and can be expanded by gaining values and virtues, and by reaping the reward of your actions.
@@ -613,7 +613,7 @@ This is crucial because any consciousness is finite and thus cannot afford arbit
 
 Motives such as curiosity are not arbitrary but based on the pleasure of seeking knowledge. It is the pursuit of expanding your awareness of the world based on (1) the pleasure of engaging your mind, and (2) the pleasure of learning something that is in some way valuable (to consider, to think about, to talk about, to use, etc.). In the right context (discussed later), the pursuit of curiosity can be of great value to you.
 
-For more on the value of curiosity, see: [_Exploration in Truth-Seeking_ from **Epistemology**](https://mistermilvusmigrans.github.io/philosophy/epistemology/exploration-in-truth-seeking.html).
+For more on the value of curiosity, see: [_Exploration in Truth-Seeking_ from **Epistemology**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/exploration-in-truth-seeking.html).
 
 ### 1+2.1.2. Constraints of a context
 Constraints of a situation shape the requirements of the context.

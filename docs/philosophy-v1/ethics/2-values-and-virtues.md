@@ -1,4 +1,4 @@
-[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics)
+[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics)
 
 **VALUES AND VIRTUES**
 
@@ -148,9 +148,9 @@ Above all, it means one's rejection of the role of a sacrificial animal, the rej
 
 Pride is the virtue corresponding to the value of self-esteem. Self-esteem is, in essence, the value for oneself. Combined with reason and purpose, the value of self-esteem is what makes all other values and consequently the pursuit of life possible. Hence, pride means achieving the value for oneself, and thus, the value for one's own life.
 
-For more on pride, especially in practice, see: ["Pride as the key to the pursuit of values" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#pride-as-the-key-to-the-pursuit-of-values).
+For more on pride, especially in practice, see: ["Pride as the key to the pursuit of values" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#pride-as-the-key-to-the-pursuit-of-values).
 
 # Moral perfection
 If life is the standard of value, then there can be no value placed higher than oneself. The full achievement of this standard and of one's value for oneself is the egoism that desires the best in all things, in values of matter and spirit. At the base of such egoism is the aim to achieve one's own moral perfection.
 
-For more on moral perfection, especially in practice, see: ["Moral perfection" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#moral-perfection).
+For more on moral perfection, especially in practice, see: ["Moral perfection" from _Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html#moral-perfection).

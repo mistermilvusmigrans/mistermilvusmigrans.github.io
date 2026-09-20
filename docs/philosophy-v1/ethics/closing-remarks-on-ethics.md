@@ -1,4 +1,4 @@
-[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics)
+[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics)
 
 **CLOSING REMARKS ON ETHICS**
 

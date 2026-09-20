@@ -1,4 +1,4 @@
-[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy/ethics)
+[↜ Back to **Ethics**](https://mistermilvusmigrans.github.io/philosophy-v1/ethics)
 
 **THE STANDARD OF VALUE**
 
@@ -19,7 +19,7 @@ That which exists. This could be an entity (i.e. that which exists as it is inde
 
 **Context**:
 
-A context of a thing is a set of things that are related to it logically (e.g. based on similaries and differences), causally (e.g. based on actions, reactions and interactions), or both. Since any part of reality has identity and changes according to its identity, and since [multiplicity and interactivity are inherent in reality](https://mistermilvusmigrans.github.io/philosophy/metaphysics/key-metaphysical-implications.html#multiplicity-and-interactivity), every part of reality is related to one or more things both logically and causally. Furthermore, by causality, any entity acts according to its own identity and the identity of its context. For example, water boils at different temperatures based on different pressure conditions; these conditions are the context of water's boiling point. As another example, a creature tends to behave one way toward benevolent creatures (e.g. in a friendly or at least non-hostile way) and another way toward malevolent creatures (e.g. in a threatened or hostile way); here, the nature of the creatures it is interacting with is the context of its behaviour.
+A context of a thing is a set of things that are related to it logically (e.g. based on similaries and differences), causally (e.g. based on actions, reactions and interactions), or both. Since any part of reality has identity and changes according to its identity, and since [multiplicity and interactivity are inherent in reality](https://mistermilvusmigrans.github.io/philosophy-v1/metaphysics/key-metaphysical-implications.html#multiplicity-and-interactivity), every part of reality is related to one or more things both logically and causally. Furthermore, by causality, any entity acts according to its own identity and the identity of its context. For example, water boils at different temperatures based on different pressure conditions; these conditions are the context of water's boiling point. As another example, a creature tends to behave one way toward benevolent creatures (e.g. in a friendly or at least non-hostile way) and another way toward malevolent creatures (e.g. in a threatened or hostile way); here, the nature of the creatures it is interacting with is the context of its behaviour.
 
 **Potential**:
 

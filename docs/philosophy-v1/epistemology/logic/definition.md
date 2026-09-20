@@ -1,4 +1,4 @@
-[↜ Back to **Logic**](https://mistermilvusmigrans.github.io/philosophy/epistemology/logic)
+[↜ Back to **Logic**](https://mistermilvusmigrans.github.io/philosophy-v1/epistemology/logic)
 
 **DEFINITION**
 

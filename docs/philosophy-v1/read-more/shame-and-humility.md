@@ -1,4 +1,4 @@
-[↜ Back to **Read More**](https://mistermilvusmigrans.github.io/philosophy/read-more)
+[↜ Back to **Read More**](https://mistermilvusmigrans.github.io/philosophy-v1/read-more)
 
 **SHAME AND HUMILITY**
 
@@ -22,5 +22,5 @@ In conclusion, prolonged shame and adopted humility have no place in a rational 
 
 Related writings:
 
-- [_Sources of Inefficacy_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/3-sources-of-inefficacy.html)
-- [_Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html)
+- [_Sources of Inefficacy_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/3-sources-of-inefficacy.html)
+- [_Pride and Moral Perfection_ from **Philosophy in Practice**](https://mistermilvusmigrans.github.io/philosophy-v1/philosophy-in-practice/foundations/5-pride-and-moral-perfection.html)
