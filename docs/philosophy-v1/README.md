@@ -1,6 +1,6 @@
 [↜ **Home**](https://mistermilvusmigrans.github.io/)
 
-# Philosophy - V1
+# Philosophy V1
 > **V1** refers to the initial philosophical foundations I worked to validate. Later versions do not necessarily override or contradict what is in V1 (though in some cases, they may); in particular, I hold the metaphysics and epistemology sections to be foundational even for later versions, even if later versions may complicate the positions.
 
 ## Introduction
