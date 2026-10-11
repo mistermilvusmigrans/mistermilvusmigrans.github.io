@@ -7,6 +7,7 @@
 ## Philosophy
 - [Philosophy V1](./philosophy-v1/)
 - [Philosophy V2](./philosophy-v2/)
+- [Philosophy V3](./philosophy-v3/)
 
 ## Other Work
 - [`the-milvus-way`, **github.com**](https://github.com/mistermilvusmigrans/the-milvus-way)
