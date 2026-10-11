@@ -16,7 +16,7 @@
 ---
 
 # Seeking the truth from "Foundations"
-Consider: [*Foundations*, **Philosophy V3**](./foundations.md)
+Consider: [Foundations, Philosophy V3](./foundations.md)
 
 Why do I seek all this? These truths - insofar as they are truths - these frameworks, these thoughts and hypotheses? Perhaps it's some innate or absorbed or adopted desire for the truth. I tried to build a moral framework out of this desire, once. But I think that I seek all this because I want to carry myself to the next moment, and the next, and the next, maybe out of compulsion or fear or the closest thing I have to meaning. And to do so, I want to understand how to bear my weight and the weight of that which I take with me, accumulate, absorb, adopt. Thus, I seek to understand the mechanisms, internal and external, that play a role in my journey through the world as the world confronts me.
 
