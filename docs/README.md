@@ -10,5 +10,5 @@
 - [Philosophy V3](./philosophy-v3/)
 
 ## Other Work
-- [`the-milvus-way`, **github.com**](https://github.com/mistermilvusmigrans/the-milvus-way)
+- [`the-way-of-the-cartographer`, **github.com**](https://github.com/mistermilvusmigrans/the-way-of-the-cartographer)
 - [The Kite's Perch, **mistermilvusmigrans.wordpress.com**](https://mistermilvusmigrans.wordpress.com/)
