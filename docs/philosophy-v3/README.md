@@ -9,3 +9,4 @@ Philosophy V3 carries over the metaphysics and epistemology from [Philosophy V1]
 - [The Self-Referential Loop (SRL)](./the-self-referential-loop-srl.md)
 - [Some of my Answers](./some-of-my-answers.md)
 - [In Relation to the Divine](./in-relation-to-the-divine.md)
+- [Ethics](./ethics.md)
