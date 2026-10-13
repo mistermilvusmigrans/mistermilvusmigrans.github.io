@@ -14,10 +14,10 @@ I love God, as an ant loves the storm.
 
 > Drawing from ask-focused prayers...
 
-The gods are powerful, purposeful, ancient... and miraculously, the may be concerned with my problems in particular. My exams, my job, my safety as I walk across the street. I'm not quite sure about their priorities, but I know they'll listen to me if I ring enough bells and bring enough flowers... and milk.
+The gods are powerful, purposeful, ancient... and miraculously, they may be concerned with my problems in particular. My exams, my job, my safety as I walk across the street. I'm not quite sure about their priorities, but I know they'll listen to me if I ring enough bells and bring enough flowers... and milk.
 
 ---
 
-> Drawing from veneration-focused worship that doesn't emulate...
+> Drawing from veneration...
 
-I can list your attributes, even when I say you have none that can be listed. I can tell your tales, the tales of your deeds and decisions, for awe or for lessons or for both. You are above me, inherently and intrinsically, and I shall always bow down to you like an inferior to a superior. If I grow, it's because of my veneration for you. If I falter or fall short, it's because I'm deficient in ways you are not. You're unattainable, so I look up to you... to attain something from the attainable. Or at least feel an echo of the virtue that is embodied in you. You're not a person but a symbol, because becoming a symbol takes away from humanity but for some reason adds to divinity.
+I can list your attributes, and they are all formidable. I can tell your tales, the tales of your deeds and decisions, for awe and for lessons. If I grow, it's because of my veneration for you. If I falter or fall short, it's because I'm deficient in ways you are not and can never be. You're unattainable, so I look up to you... to attain something from the attainable.
