@@ -12,7 +12,7 @@ I love God, as an ant loves the storm.
 
 ---
 
-> Drawing from ask-focused prayers...
+> Drawing from prayers...
 
 The gods are powerful, purposeful, ancient... and miraculously, they may be concerned with my problems in particular. My exams, my job, my safety as I walk across the street. I'm not quite sure about their priorities, but I know they'll listen to me if I ring enough bells and bring enough flowers... and milk.
 
