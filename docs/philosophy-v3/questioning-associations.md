@@ -1,6 +1,6 @@
 [↜ Back to **Philosophy V3**](https://mistermilvusmigrans.github.io/philosophy-v3)
 
-<h1>Associations</h1>
+<h1>Questioning Associations</h1>
 
 > Work-in-progress.
 

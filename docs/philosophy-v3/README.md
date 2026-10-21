@@ -7,6 +7,8 @@ Philosophy V3 carries over the metaphysics and epistemology from [Philosophy V1]
 ## Explore
 - [Foundations](./foundations.md)
 - [The Self-Referential Loop (SRL)](./the-self-referential-loop-srl.md)
-- [Some of my Answers](./some-of-my-answers.md)
+- [Some Of My Answers](./some-of-my-answers.md)
 - [In Relation to the Divine](./in-relation-to-the-divine.md)
 - [Ethics](./ethics.md)
+- [Questioning Associations](./questioning-associations.md)
+- [Orientation Toward The World](./orientation-toward-the-world.md)

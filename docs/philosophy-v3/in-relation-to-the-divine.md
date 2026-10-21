@@ -1,6 +1,6 @@
 [↜ Back to **Philosophy V3**](https://mistermilvusmigrans.github.io/philosophy-v3)
 
-<h1>In Relation to the Divine</h1>
+<h1>In Relation To The Divine</h1>
 
 ---
 

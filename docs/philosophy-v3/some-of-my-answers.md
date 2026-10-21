@@ -1,6 +1,6 @@
 [↜ Back to **Philosophy V3**](https://mistermilvusmigrans.github.io/philosophy-v3)
 
-<h1>Some of My Answers</h1>
+<h1>Some Of My Answers</h1>
 
 ---
 
