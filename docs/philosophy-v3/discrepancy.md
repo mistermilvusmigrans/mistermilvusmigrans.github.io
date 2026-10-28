@@ -4,6 +4,14 @@
 
 ---
 
+**Contents**:
+
+- [Baseline](#baseline)
+- [Root](#root)
+- [Stem](#stem)
+
+---
+
 # Baseline
 Here is a tension in my thoughts about life: I think life as such has no meaning, that everything is essentially meaningless, and yet, I think that value emerges from life as lived concretely, and value shapes meaning. It sounds like a contradiction, and it is a contradiction until you clarify the semantics of the word "value". When I use the word "value", I am speaking of it in the basic, almost mechanistic sense of "that which one acts to gain and/or keep" (which is how the novelist-philosopher Ayn Rand defined "value"). It is a description, and it is only a prescription insofar as you choose to consciously pursue it as a part of a broader pursuit of value. Since I think that the root of value is fundamentally unchosen, I believe values are fundamentally descriptive and prescriptive only in more specific, narrowly-scoped contexts.
 
