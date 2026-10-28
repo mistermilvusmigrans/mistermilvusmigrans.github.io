@@ -12,3 +12,4 @@ Philosophy V3 carries over the metaphysics and epistemology from [Philosophy V1]
 - [Ethics](./ethics.md)
 - [Questioning Associations](./questioning-associations.md)
 - [Orientation Toward The World](./orientation-toward-the-world.md)
+- [Discrepancy](./discrepancy.md)
