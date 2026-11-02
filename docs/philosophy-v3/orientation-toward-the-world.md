@@ -44,4 +44,4 @@ This is more of affect than argument, so take it as such. When I think of the wo
 
 Now, it is almost a platitude to say that the world has both good and bad. I mean, that much is true enough, I suppose, but it glosses over a key point: the "good" (at least as defined by some life-based or life-oriented standard) is not an equal force to the "bad" or, more importantly, to the indifference to the good. The world is not a battleground between Ahura Mazda and Angra Mainyu, and indeed, the malevolence of Angra Mainyu does not hold a candle to the indifference of the universe and its laws. Life and the life-affirming are not protected; they are not even relevant, metaphysically speaking. The world does not give a rat's ass about how much you care about someone, how much sweat and tears you have spent on a project, how much hope you have about your future. Life is fierce but fragile, and its fragility is terrifying.
 
-I shall leave it at that for now.
+I want to be here, so it is worth looking at where I stand.
