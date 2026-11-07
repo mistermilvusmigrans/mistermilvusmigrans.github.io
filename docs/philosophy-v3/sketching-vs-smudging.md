@@ -10,6 +10,7 @@
 - [What this means](#what-this-means)
 - [What is it for](#what-is-it-for)
 - [Many-to-one mapping](#many-to-one-mapping)
+- [The cost of sketching](#the-cost-of-sketching)
 
 ---
 
@@ -64,3 +65,18 @@ Firstly, a choice now is not one-and-done, usually. There are a whole host of ch
 Secondly, a concrete choice does not collapse reality into fewer features. If you choose to distance yourself from a toxic system, that is a choice that does not nullify the facts about this system, its history, the opportunities it does provide, its potential, etc. Even if your current choice engages with only a part of this reality, based on your own context and purpose(s), knowing this reality more widely allows you to return to or engage with this part in different ways. For example, you can leave a country that has turned tyrannical while garnering support for it outside, drawing on considerations of its people and their potential. You can pick a career while acknowledging other paths you could have taken, maybe circling back to them later or holding on to that knowledge for future considerations and counsel.
 
 Thus, choosing is not the same as smudging. You can sketch a map and choose to go to only one place, but you know where to go, and where else you could be going in the future. Life is not a thought experiment that ends after a decision, at least not usually.
+
+# The cost of sketching
+No effort is free, and sketching often involves a greater effort - cognitively, often across time to built and maintain the discipline - than smudging, because you need to (1) pay more attention to multiple dimensions for longer, (2) consider multiple paths, even when you end up choosing one, and (3) keep re-evaluating your position with respect to the multi-dimensional sketch.
+
+A key point to note here, hence, is that smudging is not automatically "bad" or "wrong", and may be the most feasible option in many contexts. For example, in a low-trust society, you are going to be wary of strangers by default, because that default is usually protective under the usual uncertainty we have about strangers. We also do not keep relitigating our conclusions about our career choices, passions, and partners, unless we see a good reason to, because if we have no good reason in front of us, by what cadence do we re-examine our lives?
+
+Treating sketching as an automatic "good" risks engaging in arbitrary effort, i.e. effort that is applied untriggered by reason or importance (as an aside, valid triggers for deeper or more detailed sketching may be: stakes, irreversibility, cost imposed on others, and surprising evidence). I have discussed arbitrary effort (cognitive or otherwise) in depth in the following:
+
+- [Effective Purposefulness, Effectiveness, Philosophy in Practice Philosophy V1](/docs/philosophy-v1/philosophy-in-practice/effectiveness/effective-purposefulness.md)
+- [Effective Rationality, Effectiveness, Philosophy in Practice Philosophy V1](/docs/philosophy-v1/philosophy-in-practice/effectiveness/effective-rationality.md)
+- [Rational Application of Volition, Rationality in Practice, Epistemology, Philosophy V1](/docs/philosophy-v1/epistemology/rationality-in-practice/4-rational-application-of-volition.md)
+
+Hence, the key takeaway should not be "sketch, don't smudge", but rather, do not automatically collapse uncertainty into "smudged" certainty, and be honest about your smudges by acknowledging the context and your uncertainty. Despite the greater effort that sketching takes, it is important to build our sketches in whatever way we can afford to, bit by bit or diving deep, because a smudge does not smudge reality, only your view of it, and reality always has the final word in what happens next.
+
+> **NOTE**: The justification for a smudge is not purely economical, of course, its economy is just a part of what justifies it. For example, if a smudge costs someone else more than it costs you (e.g. if you label someone as a liar based on a suspicion and refuse to trust them, the verdict may be economical for you but potentially damaging to them), it may not be earned. Other considerations can also be made, e.g. whether your desire for the smudge is stronger than any link you can grasp to your values (e.g. the desire for revenge may make a vendetta feel justified, even if it is destructive for everyone involved in fact).
