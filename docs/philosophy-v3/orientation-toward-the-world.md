@@ -33,14 +33,14 @@ The universe as such has no purpose, no intent; the only intent there is comes f
 # Favour
 The universe is largely inhospitable to us. Most of its space is unlivable for even a few seconds, and much of this planet that we consider our home has no designs to protect the life that resides on it. Far from protect, it is deadly, for the most part, even when it is at its safest. The weather wears down even mountains, let alone life-forms that must keep seeking shelter from it. Consider storms, eruptions, earthquakes. Consider pathogens, parasites, predators. Consider that this world has killed far more species than it has kept, and consider that there is no guarantee, no matter how much we secure or strengthen ourselves, that you or I shall see tomorrow.
 
-Among humans, who are a part of this world, we find as many foes as friends, as much pain as joy, if not more, far more, often. Consider war, coercion, control, abuse. Consider the loved ones you may not see again, tomorrow or ten years from now. Consider the wonderful people who are no more favoured by fortune than the vile and vicious.
+Among humans, who are a part of this world, we find both foes as friends, both pain and joy, and there is no law that demands their balance or the dominance of one over the other. Consider war, coercion, control, abuse. Consider the loved ones you may not see again, tomorrow or ten years from now. Consider the wonderful people who are no more favoured by fortune than the vile and vicious.
 
 This is not a world for the living.
 
 It is just the world, and we live in it.
 
 # Conclusion
-This is more of affect than argument, so take it as such. When I think of the world, I do not find it wonderful or beautiful or worthy of any worship or adoration. It is, to me, a horrible world, often, terrible in its potentials. And it is my world, and I want to live in it and make my way through it, not because of what it is, but because it is.
+This is more of affect than argument, so take it as such. When I think of the world, I do not find it wonderful or beautiful or worthy of any worship or adoration. It is, to me, a horrible world, often terrible in its potentials. And it is my world, and I want to live in it and make my way through it, not because of what it is, but because it is.
 
 Now, it is almost a platitude to say that the world has both good and bad. I mean, that much is true enough, I suppose, but it glosses over a key point: the "good" (at least as defined by some life-based or life-oriented standard) is not an equal force to the "bad" or, more importantly, to the indifference to the good. The world is not a stage for the war between Ahura Mazda and Angra Mainyu, and indeed, the malevolence of Angra Mainyu does not hold a candle to the indifference of the universe and its laws. Life and the life-affirming are not protected; they are not even relevant, metaphysically speaking. The world does not give a rat's ass about how much you care about someone, how much sweat and tears you have spent on a project, how much hope you have about your future. Life is fierce but fragile, and its fragility is terrifying.
 
