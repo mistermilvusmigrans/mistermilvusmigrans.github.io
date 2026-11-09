@@ -14,3 +14,4 @@ Philosophy V3 carries over the metaphysics and epistemology from [Philosophy V1]
 - [Orientation Toward The World](./orientation-toward-the-world.md)
 - [Discrepancy](./discrepancy.md)
 - [Sketching vs. Smudging](./sketching-vs-smudging.md)
+- [Management](./management.md) 
