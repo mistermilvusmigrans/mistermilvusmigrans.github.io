@@ -8,6 +8,7 @@
 
 - [Managing emotions through life](#managing-emotions-through-life)
 - [Managing life through structure](#managing-life-through-structure)
+- [Managing nihilism](#managing-nihilism)
 
 ---
 
@@ -58,3 +59,10 @@ To structure one's life is not a luxury. It is a core part (though not the only 
 Importantly, structure is not inherently "good", and not all structures rigid or pre-defined. Many of the strongest ones are indeed neither rigid nor pre-defined. "Unstructured free time" (if used well), "unstructured time with friends" (if enjoyed well), and so on, are not quite unstructured but dynamically and flexibly structured. Pursuing your desires without an overarching plan is not necessarily unstructured; it is unstructured in potential, actualising more and more of the potential as you recognise it, a structure that reveals itself over time, as you and your judgement grow.
 
 > The key point is this: structure can actualise potential, but potential should not always be actualised immediately (if at all). When structuring your life, the goal is not to lay out a map of everything you are doing, can do, and ought to do. The goal is to actualise the potential with reference to your values, to the extent that you actually know or are willing to venture. ***The purpose of structure is to help you actualise your potential, not to ensure all your potential is immediately clear and actualised.***
+
+# Managing nihilism
+Nihilism is a view that denies the objectivity of value. Here, by "objectivity", I mean that which exists independent of conscious affect/orientation. It can do so in two ways (maybe more, but I just know these two): (1) denying the existence of value as something inherent in the universe, and (2) denying the existence of value as something that imposes objective "oughts". I shall be using "nihilism" in both these senses. Now, note that I am not a nihilist, but I choose to build on nihilism, because what I get from it is a clear field, not a framework. I accept (1) and (2), but not necessarily what bona-fide nihilists may conclude from them (namely that value is literally non-existent, "worth" has no real referent, purpose is groundless, etc.).
+
+Here is where I will take a different turn: you need not manage nihilism. You can use it. In fact, you need not manage anything. Not your emotions. Not the chaos in your life. Not the view that nothing has any capital-P "Purpose" and that life and its flourishing has no cosmic guarantees. You can use them, because it does not matter in any fundamental sense what you do, how you feel, and how live, in which case you might as well  use your emotions, your chaos, and your nihilism to look, learn, find paths to seek potentials, or simply stay as you are. You do it, because it does matter, somehow (by mechanism, by choice, both, neither...), yet only as you make it matter. Nihilism is like fire. Use it to burn the brambles of anxiety and despair. Or don't; nothing inherently wrong with anxiety or despair, it's just boring after a point, to me at least.
+
+> Management, then, is a way to approach things, not the way you SHOULD approach things. Manage if you see the need, for your purposes. Otherwise, engage in other ways. Or don't.
