@@ -12,7 +12,7 @@
 ---
 
 # Managing emotions through life
-Emotions, in my understanding, are outputs of our system. They are are often an instantaneous evaluation of your internalised premises, internalised values, and the way these interact with the context you find yourself in. Desire for X arises when you hold X to be valuable and have the hope of achieving X. Fear of Y arises when you hold Y or its consequences to be dangerous to your values. Anger for Z arises when you hold Z to be opposed/harmful to your values in a way you can fight back against.
+Emotions, in my understanding, are outputs of our system. They are often an instantaneous evaluation of your internalised premises, internalised values, and the way these interact with the context you find yourself in. Desire for X arises when you hold X to be valuable and have the hope of achieving X. Fear of Y arises when you hold Y or its consequences to be dangerous to your values. Anger for Z arises when you hold Z to be opposed/harmful to your values in a way you can fight back against.
 
 Joy, shame, guilt, anxiety, calm... these are results, results that can feed back into your system, but results of your system, primarily. Joy is a response that affirms the values your find in your life right now, shame is a response to your view of yourself as unworthy due to what you are or what you have done, guilt is a response to your view of your actions as unworthy and needing correction/atonement, anxiety is fear with no tangible target to latch on to, calm is when you are ready but not reactive just yet.
 
@@ -24,13 +24,13 @@ The upshot of this whole discussion is to point to one common thread: emotions a
 
 But here is another thought. What if emotions are NOT symptoms at all? What if this is, in general, the wrong analogy (because that note that it is an analogy, since a "symptom" is a concept that presupposes an issue). Is grief a symptom? Anger? Hatred? Or these simply outputs, that must be treated as such without pathologising them? Because in reason, I do not see why we should pathologise them. I grant that managing emotions head-on is often useful when we observe their effects to be immediately impactful to your self-control or composure or abilities. I also grant that certain emotions, especially painful ones, are strong signals that something in us or in our lives needs to be paid attention to.
 
-But by themselves, unless you have reason to think of them that way, emotions are not "symptoms" or even information that must be processed, but affect, the bare consequence of you being alive and aware. If you want to treat them as information, then they are inded information (or at least carry it), like logs of a system that can be investigated, but need not be at every given point. I consider the treating of emotions as automatically worthy of examination (even painful ones) to be arbitrary effort unless you see the relevance in your context. Reflection is valuable, as is being thoughtful about your life and your choices, but by default, just let yourself feel what you feel. Reflect on it, now or later, if you want to, if you can afford to, but do not obliged to just by the fact that those emotions exist.
+But by themselves, unless you have reason to think of them that way, emotions are not "symptoms" or even information that must be processed, but affect, the bare consequence of you being alive and aware. If you want to treat them as information, then they are indeed information (or at least carry it), like logs of a system that can be investigated, but need not be at every given point. I consider the treating of emotions as automatically worthy of examination (even painful ones) to be arbitrary effort unless you see the relevance in your context. Reflection is valuable, as is being thoughtful about your life and your choices, but by default, just let yourself feel what you feel. Reflect on it, now or later, if you want to, if you can afford to, but do not obliged to just by the fact that those emotions exist.
 
 > Focus on managing your inputs, not primarily the outputs, although you may need to do the latter at times. And investigation needs a warrant; the existence of information is not by itself a warrant.
 
 The key approach, to me, thus, is:
 
-- Making regular space for reflection, i.e."
+- Making regular space for reflection, i.e.:
   - Whether my choices reflects my values
   - Whether my way of life meets my needs
 - Organising my life by my values
