@@ -46,7 +46,7 @@ The key approach, to me, thus, is:
 > **NOTE**: Regular reflection is about your life ("are my choices still serving my values?"), while warranted investigation is about a particular emotion/situation that you see a strong reason to delve deeper into.
 
 # Managing life through structure
-Have you tried keeping your focus on a unstructured all of text? A mish-mash of visual cues? A chaotic environment? An infodump with no explicit ties to core concepts and relevance, internally or externally? Free time with no plans and a lot of potential? A free space for ideation with no clear requirements or constraints?
+Have you tried keeping your focus on a unstructured all of text? A mishmash of visual cues? A chaotic environment? An infodump with no explicit ties to core concepts and relevance, internally or externally? Free time with no plans and a lot of potential? A free space for ideation with no clear requirements or constraints?
 
 My thesis is this: structure is the form that gives material its shape. Without structure, material does not become anything except what it is - material. Structure is the concretisation of identity. Now, when intention plays a part in the structuring, then structure is what turns material from "raw" to "used"; structure, here, becomes the concretisation of purpose.
 
