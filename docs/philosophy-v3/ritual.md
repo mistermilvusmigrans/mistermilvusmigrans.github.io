@@ -1,0 +1,12 @@
+[↜ Back to **Philosophy V3**](https://mistermilvusmigrans.github.io/philosophy-v3)
+
+<h1>Ritual</h1>
+
+---
+
+A ritual is an intentionally-enacted procedure that is well-defined in both steps and schedule, that is also consciously associated with significance beyond their tangible impact; i.e. their impact should not merely be the result of causes that can be traced back, but an association that ties the procedure and its results to something in another area of values (e.g. lighting a candle being not merely for lighting the room but being associated with the idea of an intentional hopeful act amid hopelessness). The fact is, however, that this significance may not be well-defined (although I believe it should be), and the associations may be with tradition or social/cultural expectations or vague notions/narratives. In any case, a ritual is an apt vehicle for consistently concretising abstractions of constraints and values, because, being a well-defined procedure that can be absorbed to the point of routine/muscle-memory, it reinforces the awareness of and engagement with broader constraints and values (which often cannot be directly concretised outside a complex set of circumstances (which may be outside your control)), BUT without the cognitive load of deliberation (addressed by the "well-defined steps" part) and without the state-of-mind-dependence of willpower/interest-driven initiative (addressed by the "well-defined schedule" part).
+
+These "abstractions of constraints and values" can be of many kinds. Gardening can become a ritual if tied to the value of tending to life and its flourishing with care and intention, which rests on a framework of values that upholds the necessity to nurture life actively. By gardening, you are only nurturing particular life-forms, not all life that does or may matter to you, but through this particular act of care, you can - if conscious of it - reinforce your orientation toward all life that does or may matter to you. Birdwatching can become a ritual if tied to the value of observing the world for the sake of observation, which rests on a framework of values that is non-utilitarian in essence. By birdwatching, you are not observing the "world" for the sake of observing it, only parts of it - birds (which are very much worth observing, by the way) - but you can - if conscious of it - reinforce your orientation toward the world at large through this particular act of attention.
+
+> Ritual without cross-domain, non-causal association is just habit.
+
