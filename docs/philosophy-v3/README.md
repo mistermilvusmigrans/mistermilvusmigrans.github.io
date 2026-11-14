@@ -17,3 +17,4 @@ Philosophy V3 carries over the metaphysics and epistemology from [Philosophy V1]
 - [Management](./management.md)
 - [Staking Your Claim On Your Life](./staking-your-claim-on-your-life.md)
 - [Ritual](./ritual.md)
+- [Magic](./magic.md)
