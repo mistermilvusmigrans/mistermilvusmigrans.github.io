@@ -10,7 +10,7 @@ I do not stand apart from history, neither do my ideas, values, and visions. Phi
 
 They have stood as a half humanity from when humanity arose. They were not created from man's rib, nor as an afterthought by the gods so man can have company and comfort. They were there, when stones were first sharpened, when the spears were first thrown, when the sticks were first draped with hide, when the stars were first admired. They were there, when the seeds were first sown; perhaps they sowed it first themselves. They were there, when the first harvest was gathered, the first meal made, first fibres woven, the first clothes worn. They were there, when the bricks and the roads were first laid, when spirits where first whispered to in bargains, when the first blow of war bloodied the pages of history.
 
-They were not watching, not kept, even under the laws that made them objects to be kept. Yet they weren't; they couldn't be. They were human, one half of humanity, always present, always working, dreaming, despairing, and dancing. They were not a compromise of humanity, no matter the words of the priests and philosophers, because they were humanity, one half of it, and always had been.
+They were not merely watching, not merely kept, even under the laws that made them objects to keep. They weren't and couldn't be, for they were human, one half of humanity, always present, always working, dreaming, despairing, and dancing. They were not a compromise of humanity, no matter the words of the priests and philosophers, because they were humanity, one half of it, and always had been.
 
 Sidelined, they worked.
 
