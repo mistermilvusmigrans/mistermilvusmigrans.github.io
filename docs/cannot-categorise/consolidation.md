@@ -13,3 +13,11 @@ My values are, at their core, the emergent property of my core composition. I do
 What I am seeking is a mechanism by which I can sustain my life more reliably, because I happen to want to live, I fear hardship and the deterioration of will, and I desire comfort and power (though not as permanent states but as tools in my grasp, to be used when I need). By seeking a "why", I am seeking what I think is such a mechanism. The "why", ironically, is instrumental.
 
 > Importantly, the "why" is not about belief, but practice.
+
+My framework is inherently egoistic, at least at the level of its engine (the part that which drives engagement). But this does not lead to an isolated individualist viewpoint, because even if the engine is egoistic, the context within which the engine must act is a context of integration across multiple dimensions, from the natural to the social. Moreover, this integration is not just "matter-of-fact" or a given; it can be actively pursued or maintained, where it feeds back into your pursuit and maintenance of your life.
+
+In this view, even a stranger or another life-form can have value to me at different levels: the stranger, at the level of the principle that sustains goodwill and trust among people, and the life-form, at the level of engaging with the world and valuing its offerings. In general, people and beings apart from me integrate with my life in broadly two ways:
+
+1. Instrumentally (aiding my purposes)
+2. Constitutively (part of the shape of my life)
+
