@@ -18,6 +18,6 @@ Subjugated, they worked.
 
 Silenced, they worked.
 
-They worked, dreamed, despaired and danced, a partner in nature even if not in law. And when law began to catch up, when they gained a voice and a will, all we saw was all that had ever been: humanity. Not goddesses, not angels, not demons nor witches. Just... humanity, not returning, not retrieved, but recognised.
+They worked, dreamed, despaired and danced, a partner in nature even if not in law. And when law began to catch up, when they gained a voice and a will, all we saw was all that had ever been: humanity. Not goddesses, not angels, not demons nor witches. Just... humanity, not restored, not retrieved, but recognised.
 
 If I were to represent humanity, I would do so with woman, not because they are more human, but because seeing them as humans was the achievement it should never have been. Even as their bodies adjusted and accommodated for the rigours of reproduction, even as they paid the price not in their power but in the imbalance of power against the power-hungry, they were always theirs, doing so much, struggling often, ignored as often, but always theirs, always surviving, thriving, suffering, surrendering to death, with the strength and the fragility that was humanity's.
