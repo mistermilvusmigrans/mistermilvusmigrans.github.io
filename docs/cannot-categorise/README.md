@@ -8,3 +8,4 @@ Carries over from [Philosophy V3](../philosophy-v3/). Adds spice and drama.
 - [Consolidation](./consolidation.md)
 - [Incitation](./incitation.md)
 - [Consideration](./consideration.md)
+- [On Women](./on-women.md)
