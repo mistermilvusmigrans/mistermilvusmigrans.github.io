@@ -74,11 +74,11 @@ It is, in the will to life, enshrined.
 
 ...
 
-The child-killer, the mother who fights,
+Child-killer and mother who fights,
 
 Sharp teeth against solid horns,
 
-The sword-wielder, the shield-bearer,
+Sword-wielder and shield-bearer,
 
 Sharp points against solid planes.
 
@@ -94,13 +94,13 @@ The greed for dirt and for gold.
 
 ...
 
-Nature is patron to you all, you all,
+Nature is patron to you, you all,
 
 As you offer your blade and your blood,
 
-Your gashes, frenzy, glee and fear,
+Your gashes, frenzy, glee, fear,
 
-Your will, schemes, wounds and screams.
+Your will, schemes, wounds, screams.
 
 ...
 
@@ -116,5 +116,6 @@ Burn down the following before proceeding:
 - Love and beauty
 - Good and evil
 - Virtue and vice
+- Hierarchy
 
 Now, let's proceed.
